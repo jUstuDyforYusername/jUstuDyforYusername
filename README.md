@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Udyy Sirulla Humaidi</h1>
+<h1 align="center">Hi 👋, I'm Udyy</h1>
+<h2 align="center">Sirulla Humaidi as a long name</h2>
 <h3 align="center">I'm newbie of the proggramming, please guide me :)</h3>
 
 - 💬 Ask me about **something**
