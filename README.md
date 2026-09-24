@@ -4,6 +4,8 @@
 
 - 💬 Ask me about **something**
 
+- 🌱 I’m currently **learning about C++, java,& python.** (*previously html,css,& javascript*)
+
 - 📫 How to reach me **sirullahumaidi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
